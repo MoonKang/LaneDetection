@@ -25,3 +25,5 @@ Then I have written functions that draws lines on original images.
 Final Outcome of this project comes out to be:
 
 ![FinalImage](./img/final_image.png)
+
+![FinalVideo](./white_lined.mp4)
