@@ -10,4 +10,5 @@ Lane Detection project can be decomposed into three sections.
 Use of color to detect lanes faces a multitude of problems, as lanes are not always the same color and different lighting conditions (day, night, etc) can cause misdetections. To overcome, I have firstly grayscaled and blurred the image slightly to reduce color sensitiveness. 
 
 Then, I applied canny edge techniques to measure change of gradients and identify edges of objects. 
-![Alt text](images/canny_image.jpeg)
+![h](images/canny_image.jpeg)
+[Contribution guidelines for this project](images/canny_image.jpeg)
