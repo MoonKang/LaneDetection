@@ -16,10 +16,13 @@ Since location of lanes are quite consistent, I have set to only look for edges 
 Then I have written functions that draws lines on original images.
 
 ### 3. Hough Transform
+Now that we have detected edges of objects, we would filter for the kind of edges that we are looking for. As we are interested in left and right lanes that are relatively straight, tilted in 45 degree angle, we would set appropriate thresholds.
 
-
-
+The sequence of processed images would result in:
 ![CannyImage](./img/processed_images.png)
 
+### 4. Outcome
 Final Outcome of this project comes out to be:
+
 ![FinalImage](./img/final_image.png)
+
