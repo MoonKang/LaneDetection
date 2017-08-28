@@ -21,7 +21,7 @@ Now that we have detected edges of objects, we would filter for the kind of edge
 The sequence of processed images would result in:
 ![CannyImage](./img/processed_images.png)
 
-### 4. Outcome
+### Outcome
 Final Outcome of this project comes out to be:
 
 ![FinalImage](./img/final_image.png)
