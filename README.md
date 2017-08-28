@@ -21,5 +21,7 @@ Then I have written functions that draws lines on original images.
 
 ![CannyImage](./img/processed_images.png)
 
+### 4. Outcome
 Final Outcome of this project comes out to be:
+
 ![FinalImage](./img/final_image.png)
